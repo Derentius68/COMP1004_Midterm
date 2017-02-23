@@ -148,7 +148,7 @@
             // nextButton
             // 
             this.nextButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.nextButton.Location = new System.Drawing.Point(42, 275);
+            this.nextButton.Location = new System.Drawing.Point(369, 307);
             this.nextButton.Name = "nextButton";
             this.nextButton.Size = new System.Drawing.Size(103, 42);
             this.nextButton.TabIndex = 15;
@@ -160,7 +160,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(474, 348);
+            this.ClientSize = new System.Drawing.Size(484, 361);
             this.Controls.Add(this.nextButton);
             this.Controls.Add(this.characterPictureBox);
             this.Controls.Add(this.racesGroupBox);

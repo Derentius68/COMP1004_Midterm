@@ -84,7 +84,7 @@
             this.editToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(328, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(507, 24);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -193,7 +193,7 @@
             // nextButton
             // 
             this.nextButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.nextButton.Location = new System.Drawing.Point(154, 391);
+            this.nextButton.Location = new System.Drawing.Point(392, 391);
             this.nextButton.Name = "nextButton";
             this.nextButton.Size = new System.Drawing.Size(103, 42);
             this.nextButton.TabIndex = 14;
@@ -205,7 +205,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(328, 458);
+            this.ClientSize = new System.Drawing.Size(507, 447);
             this.Controls.Add(this.nextButton);
             this.Controls.Add(this.charismaLabel);
             this.Controls.Add(this.charismaTextBox);
