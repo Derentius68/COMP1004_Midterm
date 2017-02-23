@@ -4,12 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AbilityForm
+namespace RaceForm
 {
     static class Program
     {
-        internal static Character character;
-
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -18,7 +16,7 @@ namespace AbilityForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AbilityForm());
+            Application.Run(new RaceForm());
         }
     }
 }
